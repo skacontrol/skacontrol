@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @skacontrol
-- 👀 I’m interested in ...simracing e informática
-- 🌱 I’m currently learning ... a programar con la ayuda de la IA
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... skacontrol@hotmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Simcalc esuna calculadora para simracing que espero que se diferencie de las demás por ofrecer algo nuevo y fresco.
+Actualmente está en fase de desarrollo con una primera versión para carreras individuales y poco a poco iré complementando la aplicación con más funciones.
+A medida que avance en su creación veremos una aplicación que aporte soluciones a los simracers para poder mejorar el sistema de estrategias tanto en carreras individuales como en equipo y de resistencia.
+
 
 <!---
 skacontrol/skacontrol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
